@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c61fb3b4-e893-4019-8fa7-09c7db080c5f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="11" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1nGMVW8RxydwDZX3x61IAUr3LLx" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/crawler-1.0-SNAPSHOT.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.arquillian" />
+  </component>
+  <component name="RunManager" selected="Application.CrawlerDemo">
+    <configuration name="CrawlerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CrawlerDemo" />
+      <module name="rescalecrawler" />
+      <option name="PROGRAM_PARAMETERS" value="http://www.rescale.com/ 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="WORKING_DIRECTORY" value="C:\Users\Anmol Jaising\IdeaProjects\rescalecrawler" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.CrawlerDemo" />
+      <item itemvalue="JAR Application.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CrawlerDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c61fb3b4-e893-4019-8fa7-09c7db080c5f" name="Default Changelist" comment="" />
+      <created>1611012000233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611012000233</updated>
+      <workItem from="1611012006323" duration="7080000" />
+      <workItem from="1611020460584" duration="956000" />
+      <workItem from="1611021588866" duration="137000" />
+      <workItem from="1611021938223" duration="434000" />
+      <workItem from="1611022796280" duration="1076000" />
+      <workItem from="1611024056871" duration="5762000" />
+      <workItem from="1611029897238" duration="2233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1611024150526">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1611024150526" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611029656103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1611029656103" />
+    <state x="766" y="134" key="#xdebugger.evaluate" timestamp="1611019004590">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="766" y="134" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1611019004590" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1611021343731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1611021343731" />
+    <state width="1323" height="480" key="GridCell.Tab.0.bottom" timestamp="1611029832770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="480" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611029832770" />
+    <state width="1323" height="480" key="GridCell.Tab.0.center" timestamp="1611029832770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="480" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1611029832770" />
+    <state width="1323" height="480" key="GridCell.Tab.0.left" timestamp="1611029832770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="480" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1611029832770" />
+    <state width="1323" height="480" key="GridCell.Tab.0.right" timestamp="1611029832770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="480" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1611029832770" />
+    <state width="1323" height="148" key="GridCell.Tab.1.bottom" timestamp="1611019195380">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="148" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611019195380" />
+    <state width="1323" height="148" key="GridCell.Tab.1.center" timestamp="1611019195380">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="148" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1611019195380" />
+    <state width="1323" height="148" key="GridCell.Tab.1.left" timestamp="1611019195380">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="148" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1611019195380" />
+    <state width="1323" height="148" key="GridCell.Tab.1.right" timestamp="1611019195380">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="148" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1611019195380" />
+    <state x="238" y="0" key="SettingsEditor" timestamp="1611014617208">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="238" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1611014617208" />
+    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1611018793177">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1611018793177" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1611027087554">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1611027087554" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1611016422203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1611016422203" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JarApplication">
+        <watch expression="Jsoup" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
