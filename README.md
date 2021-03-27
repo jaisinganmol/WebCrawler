@@ -16,5 +16,5 @@ cd target
 java -jar crawler-1.0-SNAPSHOT.jar <starting-url: string> <depth: int>
 
 # Example Command
-java -jar crawler-1.0-SNAPSHOT.jar https://www.rescale.com/ 2
+java -jar crawler-1.0-SNAPSHOT.jar https://www.google.com/ 2
 
